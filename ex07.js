@@ -1,3 +1,3 @@
 //Crie uma variável chamada profissão
-let profissão="professora";
-console.log(`a minha profissão é ${professora}`);
+let profissão="perita criminal";
+console.log(`eu quero ser {perita criminal}`);
